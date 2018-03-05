@@ -13,6 +13,7 @@ namespace MiŚ.Core.User
             this.username = username;
             this.password = password;
             //TODO sprawdzić uprawnienia w bazie danych
+            //hejho
         }
     }
 }
